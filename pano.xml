@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20938" start="node1" appversion="7.1.4" hassounds="0">
+  <panorama id="node1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" width="2976" levelingpitch="0" overlap="1" leveltilesize="510" height="2976">
+      <level predecode="0" preload="0" height="2976" width="2976"/>
+      <level predecode="0" preload="0" height="1488" width="1488"/>
+      <level predecode="0" preload="0" height="744" width="744"/>
+      <level predecode="1" preload="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0.664858" fov="100" tilt="-0.836765"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata datetime="9/11/24 3:23 PM" title="Front Yard" info="" source="" nodeid="node1" comment="" longitude="-122.41847098" altitude="-3048.00" customnodeid="" latitude="45.60032230" heading="0" author="" tags="FrontYard" copyright="" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" width="180" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" zoomout="0" blendtime="1" zoomafteroutfov="40" softedge="0" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control sensitivity="8" hideabout="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" contextprojections="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="1" contextfullscreen="1" rubberband="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" width="2976" levelingpitch="0" overlap="1" leveltilesize="510" height="2976">
+      <level predecode="0" preload="0" height="2976" width="2976"/>
+      <level predecode="0" preload="0" height="1488" width="1488"/>
+      <level predecode="0" preload="0" height="744" width="744"/>
+      <level predecode="1" preload="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata datetime="9/11/24 3:25 PM" title="Front Door" info="" source="" nodeid="node2" comment="" longitude="-122.41848707" altitude="-3048.00" customnodeid="" latitude="45.60034296" heading="0" author="" tags="Insta360Test2" copyright="" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" width="180" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" zoomout="0" blendtime="1" zoomafteroutfov="40" softedge="0" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control sensitivity="8" hideabout="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" contextprojections="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="1" contextfullscreen="1" rubberband="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" width="2976" levelingpitch="0" overlap="1" leveltilesize="510" height="2976">
+      <level predecode="0" preload="0" height="2976" width="2976"/>
+      <level predecode="0" preload="0" height="1488" width="1488"/>
+      <level predecode="0" preload="0" height="744" width="744"/>
+      <level predecode="1" preload="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata datetime="9/11/24 3:27 PM" title="Entry Way" info="" source="" nodeid="node3" comment="" longitude="-122.41849512" altitude="-3048.00" customnodeid="" latitude="45.60035844" heading="0" author="" tags="Insta360Test2" copyright="" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" width="180" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" zoomout="0" blendtime="1" zoomafteroutfov="40" softedge="0" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control sensitivity="8" hideabout="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" contextprojections="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="1" contextfullscreen="1" rubberband="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" width="2976" levelingpitch="0" overlap="1" leveltilesize="510" height="2976">
+      <level predecode="0" preload="0" height="2976" width="2976"/>
+      <level predecode="0" preload="0" height="1488" width="1488"/>
+      <level predecode="0" preload="0" height="744" width="744"/>
+      <level predecode="1" preload="1" height="372" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata datetime="9/11/24 3:28 PM" title="Office" info="" source="" nodeid="node4" comment="" longitude="-122.41854474" altitude="-3048.00" customnodeid="" latitude="45.60035844" heading="0" author="" tags="Insta360Test2" copyright="" description=""/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" width="180" textcolor="0x000000" border="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" zoomout="0" blendtime="1" zoomafteroutfov="40" softedge="0" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control sensitivity="8" hideabout="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" contextprojections="0" lockedwheel="0" dblclickfullscreen="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="1" contextfullscreen="1" rubberband="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" tags="" comment="" copyright="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
